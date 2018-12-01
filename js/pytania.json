@@ -1,0 +1,51 @@
+[
+    {
+        "typ": "reg",
+        "numer": 0,
+        "epoka": "Romantyzm",
+        "tekst": "Kto napisał 'Balladynę'?"
+    },
+    {
+        "typ": "reg",
+        "numer": 1,
+        "epoka": "Renesans",
+        "tekst": "Kto napisał 'Treny'?"
+    },
+    {
+        "typ": "reg",
+        "numer": 2,
+        "epoka": "Barok",
+        "tekst": "Wymień tytuł sonetu Sępa"
+    },
+    {
+        "typ": "reg",
+        "numer": 3,
+        "epoka": "20-lecie",
+        "tekst": "Wymień Skamandrytów"
+    },
+    {
+        "typ": "szybkie",
+        "numer": 4,
+        "pytania": {
+            "0": "Pytanie 1",
+            "1": "Pytanie 2",
+            "2": "Pytanie 3",
+            "3": "Pytanie 4",
+            "4": "Pytanie 5"
+        }
+    },
+    {
+        "typ": "img",
+        "numer": 5,
+        "epoka": "Barok",
+        "tekst": "Kto jest autorem widocznego obrazu?",
+        "image": "caravaggio.jpg"
+    },
+    {
+        "typ": "img",
+        "numer": 6,
+        "epoka": "Modernizm",
+        "tekst": "Kto jest autorem widocznego obrazu?",
+        "image": "renoir.jpg"
+    }
+]
