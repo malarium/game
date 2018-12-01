@@ -24,17 +24,6 @@
         "tekst": "Wymień Skamandrytów"
     },
     {
-        "typ": "szybkie",
-        "numer": 4,
-        "pytania": {
-            "0": "Pytanie 1",
-            "1": "Pytanie 2",
-            "2": "Pytanie 3",
-            "3": "Pytanie 4",
-            "4": "Pytanie 5"
-        }
-    },
-    {
         "typ": "img",
         "numer": 5,
         "epoka": "Barok",
@@ -47,5 +36,14 @@
         "epoka": "Modernizm",
         "tekst": "Kto jest autorem widocznego obrazu?",
         "image": "renoir.jpg"
+    },
+    {
+        "typ": "yt",
+        "numer": 7,
+        "epoka": "Romantyzm",
+        "tekst": "Kto jest autorem tej opery?",
+        "height": 500,
+        "width": 885,
+        "src": "https://www.youtube.com/embed/mUYhIUlHX70?start=7"
     }
 ]

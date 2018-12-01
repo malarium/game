@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash");
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70vw;
+  height: 70vh;
+  margin: 14vh auto;
+}
+
+main div {
+  width: 260px;
+  height: 420px;
+  background-image: url("../images/card.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+main div p {
+  font-family: "Berkshire Swash", cursive;
+  font-size: 2.3rem;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 140px;
+}

@@ -1,0 +1,79 @@
+[
+    {
+        "numer": 0,
+        "epoka": "Romantyzm",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 1,
+        "epoka": "Barok",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 2,
+        "epoka": "Renesans",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 3,
+        "epoka": "Współczesność",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 4,
+        "epoka": "20-lecie",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 5,
+        "epoka": "Starożytność",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    },
+    {
+        "numer": 6,
+        "epoka": "Średniowiecze",
+        "pytania": [
+            "Pytanie 1",
+            "Pytanie 2",
+            "Pytanie 3",
+            "Pytanie 4",
+            "Pytanie 5"
+        ]
+    }
+]
