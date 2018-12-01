@@ -1,4 +1,4 @@
-fetch('js/pytania.json').then(response => {
+fetch('game/js/pytania.json').then(response => {
     return response.json();
 }).then(pytania => {  
     init(pytania);
