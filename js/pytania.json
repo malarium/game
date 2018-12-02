@@ -2,44 +2,87 @@
     {
         "typ": "reg",
         "numer": 0,
-        "epoka": "Romantyzm",
-        "tekst": "Kto napisał 'Balladynę'?"
+        "epoka": "Starożytność",
+        "tekst": "Wymień trzech najważniejszych poetów rzymskich epoki antyku. Podaj tytuł jednego dzieła każdego z nich."
     },
     {
         "typ": "reg",
         "numer": 1,
-        "epoka": "Renesans",
-        "tekst": "Kto napisał 'Treny'?"
+        "epoka": "Starożytność",
+        "tekst": "Jaką rolę w biblijnej opowieści o Hiobie odegrali jego przyjaciele?"
     },
     {
         "typ": "reg",
         "numer": 2,
-        "epoka": "Barok",
-        "tekst": "Wymień tytuł sonetu Sępa"
+        "epoka": "Starożytność",
+        "tekst": "Na podstawie wybranego dzieła z epoki antyku wyjaśnij termin 'paralelizm akcji'."
     },
     {
         "typ": "reg",
         "numer": 3,
-        "epoka": "20-lecie",
-        "tekst": "Wymień Skamandrytów"
+        "epoka": "Starożytność",
+        "tekst": "Dlaczego Grecy chodzili w starożytności do teatru? Wymień trzy powody."
+    },
+    {
+        "typ": "reg",
+        "numer": 4,
+        "epoka": "Starożytność",
+        "tekst": "Jak brzmi zagadka Sfinksa i dlaczego Edyp ją rozwiązał?"
+    },
+    {
+        "typ": "reg",
+        "numer": 5,
+        "epoka": "Średniowiecze",
+        "tekst": "Na znanym Wam przykładzie proszę scharakteryzować gatunek: chanson de geste."
+    },
+    {
+        "typ": "reg",
+        "numer": 6,
+        "epoka": "Średniowiecze",
+        "tekst": "Na znanym Wam przykładzie proszę omówić wzorzec parenetyczny średniowiecznego króla."
+    },
+    {
+        "typ": "reg",
+        "numer": 7,
+        "epoka": "Średniowiecze",
+        "tekst": "Na znanym Wam przykładzie proszę omówić wzorzec parenetyczny rycerza chrystusowego."
+    },
+    {
+        "typ": "reg",
+        "numer": 8,
+        "epoka": "Średniowiecze",
+        "tekst": "„Bogurodzica” – pieśń religijna czy dzieło literackie? Proszę rozważyć problem."
+    },
+    {
+        "typ": "reg",
+        "numer": 9,
+        "epoka": "Średniowiecze",
+        "tekst": "Czy zgodzą się Państwo z tezą, że kultura rycerska jest elementem uniwersalizmu średniowiecznego? Proszę uzasadnić odpowiedź."
     },
     {
         "typ": "img",
-        "numer": 5,
+        "numer": 10,
+        "epoka": "Średniowiecze",
+        "tekst": "Proszę rozpoznać miejsce i wyjaśnić, dlaczego uchodzi za perłę polskiej architektury sakralnej?",
+        "image": "tum.jpg"
+    },
+    {
+        "typ": "img",
+        "numer": 11,
         "epoka": "Barok",
         "tekst": "Kto jest autorem widocznego obrazu?",
         "image": "caravaggio.jpg"
     },
     {
         "typ": "img",
-        "numer": 6,
+        "numer": 12,
         "epoka": "Modernizm",
         "tekst": "Kto jest autorem widocznego obrazu?",
         "image": "renoir.jpg"
     },
     {
         "typ": "yt",
-        "numer": 7,
+        "numer": 13,
         "epoka": "Romantyzm",
         "tekst": "Kto jest autorem tej opery?",
         "height": 500,
