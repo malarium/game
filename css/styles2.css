@@ -2,6 +2,9 @@
 body {
   margin: 0;
   padding: 0;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
 }
 
 main {
@@ -27,4 +30,56 @@ main div p {
   font-weight: bolder;
   text-align: center;
   margin-top: 140px;
+}
+
+.modal2 {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  position: absolute;
+  display: none;
+  margin-top: -14vh;
+  padding: 2vw;
+}
+
+.modal2_show {
+  display: block;
+}
+
+#timer {
+  font-size: 2em;
+  text-align: center;
+  margin-left: -2vw;
+  position: relative;
+}
+
+@keyframes color {
+  from {
+        background-color: lightgreen;
+        width: 100wv;}
+  to {
+      background-color: lightcoral;
+      width: 0;
+      }
+}
+
+#color {
+  position: absolute;
+  top: 10px;
+  width: 100vw;
+  height: 100px;
+  background-color: lightgreen;
+  /* animation-name: color; */
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: 5;
+}
+
+#pytanie {
+  font-size: 2.5em;
+  width: 100vw;
+  max-width: 100vw;
+  text-align: center;
+  margin-left: -2vw;
+  margin-top: 27vh;
 }

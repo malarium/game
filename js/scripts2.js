@@ -19,23 +19,41 @@ function init2(pytania) {
       main.appendChild(karta);
     });
   };
-
   pokazKarty();
+
+  const pokazPytania = pytanie => {
+    let pytania = [...pytanie.pytania];
+    let modal2 = document.querySelector(".modal2");
+    let tekst_box = document.querySelector("#pytanie_tekst");
+    let pasek = document.querySelector("#color");
+    modal2.classList.add("modal2_show");
+    pasek.style.animationName = "color";
+    tekst_box.textContent = pytania[0];
+    let b = 1;
+    let interval = setInterval(function() {
+      console.log(b, 'pytanie:', pytania[b])
+      pasek.style.animationName = "";
+      pasek.style.animationName = "color";
+      tekst_box.textContent = pytania[b];
+      b++;
+      if(b>5) {  
+        clearInterval(interval);
+        modal2.classList.remove("modal2_show");
+      }
+    }, 5000);
+    return;
+  };
 
   document.addEventListener("click", function(e) {
     let epoka = e.target.textContent;
-    console.log(epoka);
     pytania.forEach(pytanie => {
       if (pytanie.epoka === epoka) {
-        pytanie.pytania.forEach(q => {
-          //Wyświetl pytania
-          console.log(q);
-        });
+        pokazPytania(pytanie);
         pytania.splice(pytanie.numer, 1);
-        let a=0;
+        let a = 0;
         pytania.forEach(pytanie => {
-            pytanie.numer = a;
-            a++;
+          pytanie.numer = a;
+          a++;
         });
         pokazKarty();
       }

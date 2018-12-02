@@ -1,79 +1,79 @@
 [
-    {
-        "numer": 0,
-        "epoka": "Romantyzm",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 1,
-        "epoka": "Barok",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 2,
-        "epoka": "Renesans",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 3,
-        "epoka": "Współczesność",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 4,
-        "epoka": "20-lecie",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 5,
-        "epoka": "Starożytność",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    },
-    {
-        "numer": 6,
-        "epoka": "Średniowiecze",
-        "pytania": [
-            "Pytanie 1",
-            "Pytanie 2",
-            "Pytanie 3",
-            "Pytanie 4",
-            "Pytanie 5"
-        ]
-    }
+  {
+    "numer": 0,
+    "epoka": "Starożytność",
+    "pytania": [
+      "Ile psalmów liczy biblijna Księga Psalmów?",
+      "Co znaczą słowa Horacego: 'Exegi monumentum aere perennius'?",
+      "Kto wprowadził na scenę teatralną drugiego aktora?",
+      "Jak miała na imię matka Hefajstosa?",
+      "Kto był dziadkiem Zeusa?"
+    ]
+  },
+  {
+    "numer": 1,
+    "epoka": "Średniowiecze",
+    "pytania": [
+      "Inny tytuł 'Żalów matki boskiej pod krzyżem' to…",
+      "Jednym z kronikarzy polskich był…",
+      "Kto przez długi czas był domniemanym autorem 'Bogurodzicy'?",
+      "Istnienie 'Bogurodzicy' zostało potwierdzone w kronice…",
+      "Jak miał na imię święty, który zmarł pod schodami swojego domu?"
+    ]
+  },
+  {
+    "numer": 2,
+    "epoka": "Renesans",
+    "pytania": [
+      "Które dzieło na pewno napisał Jan Kochanowski: 'Brydż', 'Poker', 'Szachy'?",
+      "Jak miała na imię żona Jana Kochanowskiego?",
+      "Z którego trenu pochodzą słowa: 'Jedną maluczką duszą tak wiele ubyło'?",
+      "Jakiego słowa brakuje w poniższej wypowiedzi Mikołaja Reja: 'A niechaj wżdy postronni znają, iż Polacy nie gęsi, iż swój język mają'?",
+      "Podaj tytuł fraszki, z której pochodzą słowa: 'Trudny – powiada - mój rząd z tymi pany:/ Szedłem spać trzeźwo, a wstanę pijany'?"
+    ]
+  },
+  {
+    "numer": 3,
+    "epoka": "Barok",
+    "pytania": [
+      "Nazwa barok pochodzi z języka...",
+      "Swój najsłynniejszy sonet J.A. Morsztyn zatytułował...",
+      "Jan Chryzostom Pasek znany jest ze swoich...",
+      "Wtrącenia w języku obcym to...",
+      "Portret sarmacki jest nazywany inaczej portretem..."
+    ]
+  },
+  {
+    "numer": 4,
+    "epoka": "Romantyzm",
+    "pytania": [
+      "Początek polskiego romantyzmu datuje się  na rok...",
+      "Który bohater 'nazywa się Milijon'?",
+      "Podaj imię i nazwisko ukochanej Mickiewicza",
+      "Kto był ojczymem Juliusza Słowackiego (i pierwowzorem Doktora z 'Dziadów' cz. III)?",
+      "W którym wierszu C. K. Norwid pisze, iż 'ideał sięgnął bruku'?"
+    ]
+  },
+  {
+    "numer": 5,
+    "epoka": "Międzywojnie",
+    "pytania": [
+      "Data wydania 'Ferdydurke' to...",
+      "Wymień trzech Skamandrytów",
+      "Przykładem powieści psychologicznej jest...",
+      "Józef Czechowicz należał do grupy...",
+      "Rozwiń skrót 3 x M"
+    ]
+  },
+  {
+    "numer": 6,
+    "epoka": "Współczesność",
+    "pytania": [
+      "Wymień dwa tytuły dramatów awangardowych",
+      "'Dżuma' A. Camusa - jaki to rodzaj powieści?",
+      "Który pisarz wprowadził do literatury pojęcie: nowomowa?",
+      "Kto jest narratorem 'Innego świata'?",
+      "Jak nazywano pokolenie, do którego należał K.K. Baczyński?"
+    ]
+  }
 ]

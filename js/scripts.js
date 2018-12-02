@@ -41,6 +41,7 @@ function init(pytania) {
         ifrm.setAttribute("width", pytania[los].width);
         ifrm.setAttribute("height", pytania[los].height);
         ifrm.setAttribute("src", pytania[los].src);
+        ifrm.setAttribute("modestbranding", "0");
         document.querySelector("#media").appendChild(ifrm);
     }
     
