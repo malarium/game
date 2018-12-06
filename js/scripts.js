@@ -96,14 +96,6 @@ function init(pytania) {
         document.querySelector("#losowanie").style.display = "none";
         pytania.splice(los, 1);
       }, 5000);
-      //   if (pytania[los].typ === "reg") {
-      //     zwyklePytania(los);
-      //   } else if (pytania[los].typ === "yt") {
-      //     yt(los);
-      //   } else {
-      //     media(los);
-      //   }
-      //   pytania.splice(los, 1);
     }
   });
 }

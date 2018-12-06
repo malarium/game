@@ -40,7 +40,7 @@ function init2(pytania) {
         clearInterval(interval);
         modal2.classList.remove("modal2_show");
       }
-    }, 5000);
+    }, 7000);
     return;
   };
 

@@ -1,21 +1,15 @@
 [
     {
         "typ": "reg",
-        "numer": 0,
+        "numer": 1,
         "epoka": "Starożytność",
         "tekst": "Wymień trzech najważniejszych poetów rzymskich epoki antyku. Podaj tytuł jednego dzieła każdego z nich."
     },
     {
         "typ": "reg",
-        "numer": 1,
-        "epoka": "Starożytność",
-        "tekst": "Jaką rolę w biblijnej opowieści o Hiobie odegrali jego przyjaciele?"
-    },
-    {
-        "typ": "reg",
         "numer": 2,
         "epoka": "Starożytność",
-        "tekst": "Na podstawie wybranego dzieła z epoki antyku wyjaśnij termin 'paralelizm akcji'."
+        "tekst": "Jaką rolę w biblijnej opowieści o Hiobie odegrali jego przyjaciele?"
     },
     {
         "typ": "reg",
@@ -29,60 +23,245 @@
         "epoka": "Starożytność",
         "tekst": "Jak brzmi zagadka Sfinksa i dlaczego Edyp ją rozwiązał?"
     },
+
     {
         "typ": "reg",
         "numer": 5,
-        "epoka": "Średniowiecze",
-        "tekst": "Na znanym Wam przykładzie proszę scharakteryzować gatunek: chanson de geste."
-    },
-    {
-        "typ": "reg",
-        "numer": 6,
         "epoka": "Średniowiecze",
         "tekst": "Na znanym Wam przykładzie proszę omówić wzorzec parenetyczny średniowiecznego króla."
     },
     {
         "typ": "reg",
-        "numer": 7,
+        "numer": 6,
         "epoka": "Średniowiecze",
         "tekst": "Na znanym Wam przykładzie proszę omówić wzorzec parenetyczny rycerza chrystusowego."
     },
     {
         "typ": "reg",
-        "numer": 8,
+        "numer": 7,
         "epoka": "Średniowiecze",
         "tekst": "„Bogurodzica” – pieśń religijna czy dzieło literackie? Proszę rozważyć problem."
+    },
+
+    {
+        "typ": "reg",
+        "numer": 8,
+        "epoka": "Renesans",
+        "tekst": "Jak brzmią tytuły ksiąg dzieła Andrzeja Frycza Modrzewskiego „O poprawie Rzeczypospolitej ksiąg pięć”. Podaj co najmniej trzy."
     },
     {
         "typ": "reg",
         "numer": 9,
-        "epoka": "Średniowiecze",
-        "tekst": "Czy zgodzą się Państwo z tezą, że kultura rycerska jest elementem uniwersalizmu średniowiecznego? Proszę uzasadnić odpowiedź."
+        "epoka": "Renesans",
+        "tekst": "Jakie dzieła napisał Mikołaj Rej? Wymień tytuły co najmniej trzech."
     },
     {
-        "typ": "img",
+        "typ": "reg",
         "numer": 10,
-        "epoka": "Średniowiecze",
-        "tekst": "Proszę rozpoznać miejsce i wyjaśnić, dlaczego uchodzi za perłę polskiej architektury sakralnej?",
-        "image": "tum.jpg"
+        "epoka": "Renesans",
+        "tekst": "Z jakich utworów Szekspira pochodzą następujące postacie kobiece: Desdemona, Gertruda, Julia, Katarzyna, Ofelia?"
     },
     {
-        "typ": "img",
+        "typ": "reg",
         "numer": 11,
+        "epoka": "Renesans",
+        "tekst": "Dlaczego Jan Kochanowski w 'Trenach' przywołuje postać Safony z Lesbos?."
+    },
+    {
+        "typ": "reg",
+        "numer": 12,
         "epoka": "Barok",
-        "tekst": "Kto jest autorem widocznego obrazu?",
-        "image": "caravaggio.jpg"
+        "tekst": "Wymień i omów charakterystyczne dla baroku środki stylistyczne (5 przykładów)."
+    },
+    {
+        "typ": "reg",
+        "numer": 13,
+        "epoka": "Barok",
+        "tekst": "Podaj tytuły trzech wierszy Jana Andrzeja Morsztyna. Wskaż cechy jego twórczości."
+    },
+      {
+        "typ": "reg",
+        "numer": 14,
+        "epoka": "Oświecenie",
+        "tekst": "Udowodnij polityczny charakter bajki Ignacego Krasickiego 'Ptaszki w klatce'."
     },
     {
         "typ": "img",
-        "numer": 12,
+        "numer": 15,
+        "epoka": "Barok",
+        "tekst": "Wskaż cechy charakterystyczne dla baroku w obrazie autorstwa Georgesa de La Tour pt. Maria Magdalena.",
+        "image": "Maria.jpg"
+    },
+    {
+        "typ": "img",
+        "numer": 16,
+        "epoka": "Romantyzm",
+        "tekst": "Omów cechy malarstwa romantycznego na przykładzie dzieła „Tratwa Meduzy”  francuskiego malarza Théodore’a Géricaulta.",
+        "image": "Medusa.jpg"
+    },
+    {
+        "typ": "reg",
+        "numer": 17,
+        "epoka": "Romantyzm",
+        "tekst": "„Czucie i wiara silniej mówi do mnie, niż mędrca szkiełko i oko”. Z jakiego dzieła pochodzą te słowa? Kto je wygłasza? O czyim „szkiełku i oku” mówi autor?"
+    },
+    {
+        "typ": "reg",
+        "numer": 18,
+        "epoka": "Romantyzm",
+        "tekst": "„Kraj lat dziecinnych, on zawsze zostanie święty i czysty, jak pierwsze kochanie” – z czyjego i jakiego dzieła pochodzą te słowa? O jakim kraju konkretnie pisze autor? Jak go ukazuje w całym dziele?"
+    },
+    {
+        "typ": "reg",
+        "numer": 19,
+        "epoka": "Romantyzm",
+        "tekst": "„Kobieto! puchu marny! ty wietrzna istoto…tak ciebie oślepiło złoto” – kto wypowiada te słowa? Z jakiego i czyjego dzieła pochodzą? O jakiej kobiecie mówią i co bohater tymi słowami zarzuca adresatce?"
+    },
+    {
+        "typ": "reg",
+        "numer": 20,
+        "epoka": "Romantyzm",
+        "tekst": "Gdzie i jak popełnia samobójstwo Werter? W co był ubrany bohater w chwili popełnienia samobójstwa? "
+    },
+    {
+        "typ": "img",
+        "numer": 21,
+        "epoka": "Romantyzm",
+        "tekst": "Przedstawiony obraz, to dzieło romantycznego  francuskiego malarza, Eugene’a Delacroix. Podaj tytuł obrazu i wskaż okoliczności towarzyszące jego powstaniu.",
+        "image": "Liberty.jpg"
+    },
+    {
+        "typ": "reg",
+        "numer": 22,
+        "epoka": "Pozytywizm",
+        "tekst": "Stanisław Wokulski, Ignacy Rzecki, Julian Ochocki – dlaczego trzej idealiści ponoszą klęskę?"
+    },
+    {
+        "typ": "reg",
+        "numer": 23,
+        "epoka": "Pozytywizm",
+        "tekst": "Obraz dziecka w pozytywizmie – proszę omówić zagadnienie, odnosząc się do dwóch przykładów literackich."
+    },
+    {
+        "typ": "img",
+        "numer": 24,
+        "epoka": "Pozytywizm",
+        "tekst": "Na podstawie obrazu Gustava Courbeta „Kamieniarze” proszę omówić specyfikę realizmu malarskiego doby drugiej połowy XIX w.",
+        "image": "Stonebreakers.jpg"
+    },
+    {
+        "typ": "reg",
+        "numer": 25,
+        "epoka": "Młoda Polska",
+        "tekst": "W którym roku odbyło się wesele Lucjana Rydla z Jadwigą Mikołajczykówną? W czyjej chacie miało miejsce przyjęcie?"
+    },
+    {
+        "typ": "reg",
+        "numer": 26,
+        "epoka": "Młoda Polska",
+        "tekst": "W którym roku i za jakie dzieło W. S. Reymont otrzymał Literacką Nagrodę Nobla? Jaki był argument za przyznaniem właśnie tej nagrody Reymontowi?"
+    },
+    {
+        "typ": "reg",
+        "numer": 27,
+        "epoka": "Młoda Polska",
+        "tekst": "Wskaż 3 tytuły młodopolskich wierszy, które nawiązują do dekadenckiego stylu życia (każdy w tekstów przypisz innemu autorowi)."
+    },
+    {
+        "typ": "reg",
+        "numer": 28,
+        "epoka": "Młoda Polska",
+        "tekst": "Opis scenę chocholego tańca z „Wesela” Stanisława Wyspiańskiego. Wyjaśnij jego symbolikę."
+    },
+    {
+        "typ": "reg",
+        "numer": 29,
+        "epoka": "Młoda Polska",
+        "tekst": "Wyjaśnij pojęcie 'bohema'. Wskaż cechy charakterystyczne dla bohemy młodopolskiej. Wskaż 3 nazwiska artystów należących do tej grupy."
+    },
+    {
+        "typ": "reg",
+        "numer": 30,
+        "epoka": "Młoda Polska",
+        "tekst": "'Miałeś chamie złoty róg, miałeś chamie czapkę z piór… ostał ci się ino sznur' – wyjaśnij znaczenie tych słów. Kto i do kogo je wypowiada? W jakim i czyim dziele?"
+    },
+    {
+        "typ": "reg",
+        "numer": 31,
+        "epoka": "Młoda Polska",
+        "tekst": "Wskaż 3 przyczyny fiaska walk narodowowyzwoleńczych w „Weselu” Stanisława Wyspiańskiego."
+    },
+    {
+        "typ": "img",
+        "numer": 32,
         "epoka": "Modernizm",
-        "tekst": "Kto jest autorem widocznego obrazu?",
-        "image": "renoir.jpg"
+        "tekst": "Wskaż cechy malarstwa ekspresjonistycznego na przykładzie dzieła „Niepokój” Edwarda Muncha.",
+        "image": "anxiety.jpg"
+    },
+    {
+        "typ": "reg",
+        "numer": 33,
+        "epoka": "Międzywojnie",
+        "tekst": "Miasto – Masa – Maszyna. Proszę omówić literacko-społeczny program grupy artystycznej skupionej wokół Tadeusza Peipera."
+    },
+    {
+        "typ": "reg",
+        "numer": 34,
+        "epoka": "Międzywojnie",
+        "tekst": "Więcej światła!. Proszę omówić literacko-społeczny program grupy artystycznej skupionej wokół Brunona Jasieńskiego."
+    },
+    {
+        "typ": "reg",
+        "numer": 35,
+        "epoka": "Międzywojnie",
+        "tekst": "Skamander połyska, wiślaną świetląc się falą (Stanisław Wyspiański „Akropolis”). Proszę omówić cechy twórczości grupy literackiej 'Skamander'."
+    },
+    {
+        "typ": "reg",
+        "numer": 36,
+        "epoka": "Literatura współczesna",
+        "tekst": "Który z pisarzy powojennych wykorzystał technikę behawiorystyczną? Na czym ona polega?."
+    },
+    {
+        "typ": "reg",
+        "numer": 37,
+        "epoka": "Literatura współczesna",
+        "tekst": "Wymień trzy nazwiska współczesnych reżyserów teatralnych."
+    },
+
+    {
+        "typ": "img",
+        "numer": 38,
+        "epoka": "Międzywojnie",
+        "tekst": "Proszę rozpoznać obraz i na jego przykładzie omówić surrealizm w malarstwie dwudziestolecia międzywojennego.",
+        "image": "zyrafa.jpg"
+    },
+    {
+        "typ": "img",
+        "numer": 39,
+        "epoka": "Literatura współczesna",
+        "tekst": "Przedstawiony obraz 'Rozstrzelanie VIII' funkcjonuje także pod tytułem 'Rozstrzelanie surrealistyczne'.Oceń, czy jest to tytuł trafny.",
+        "image": "Rozstrzelanie.jpg"
+    },
+    {
+        "typ": "img",
+        "numer": 40,
+        "epoka": "Literatura współczesna",
+        "tekst": "Jakie problemy dramatu S. Mrożka zapowiada plakat teatralny Wojciecha Wołyńskiego?",
+        "image": "Tango.jpg"
     },
     {
         "typ": "yt",
-        "numer": 13,
+        "numer": 41,
+        "epoka": "Młoda Polska",
+        "tekst": "Obejrzyj fragment filmu pt. „Wesele” będącego ekranizacją dramatu o tym samym tytule. Kto odtwarza rolę Pana Młodego? Kto wykonuje pieśń Chochoła?",
+        "height": 500,
+        "width": 885,
+        "src":"https://www.youtube.com/embed/t1nwQTDd2bk?controls=0&amp;start=7"
+    },
+    {
+        "typ": "yt",
+        "numer": 42,
         "epoka": "Romantyzm",
         "tekst": "Kto jest autorem tej opery?",
         "height": 500,

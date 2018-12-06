@@ -1,7 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash");
 body {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  font-family: "Berkshire Swash", cursive;
 }
 
 hr {
@@ -69,6 +71,7 @@ main {
 #media {
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .media_visible {
@@ -84,20 +87,19 @@ iframe {
 
 #pytanie {
   font-size: larger;
+  padding: 0 50px;
 }
 
 #losowanie {
   width: 25vw;
   height: 40vw;
   border: 5px solid black;
-  border-radius: 5px;
+  border-radius: 25px;
   z-index: 2;
   position: absolute;
   top: 10%;
   left: 35%;
-  /* background-color: rgba(255, 255, 255, 0.5); */
   background-image: url("../images/card.jpg");
-  /* background-blend-mode: overlay; */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

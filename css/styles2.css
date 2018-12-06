@@ -73,7 +73,7 @@ main div p {
   height: 100px;
   background-color: lightgreen;
   /* animation-name: color; */
-  animation-duration: 5s;
+  animation-duration: 7s;
   animation-timing-function: linear;
   animation-iteration-count: 5;
 }
