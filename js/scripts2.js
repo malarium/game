@@ -10,6 +10,11 @@ function init2(pytania) {
   const main = document.querySelector("main");
 
   const pokazKarty = () => {
+    if(pytania.length <= 0) {
+      setTimeout(function() {
+        window.location = "koniec.html";
+      }, 35000);
+    }
     main.innerHTML = "";
     pytania.forEach(pytanie => {
       let karta = document.createElement("div");
@@ -31,7 +36,6 @@ function init2(pytania) {
     tekst_box.textContent = pytania[0];
     let b = 1;
     let interval = setInterval(function() {
-      console.log(b, 'pytanie:', pytania[b])
       pasek.style.animationName = "";
       pasek.style.animationName = "color";
       tekst_box.textContent = pytania[b];

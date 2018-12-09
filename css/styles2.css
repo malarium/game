@@ -7,6 +7,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background-color: #8F0D0D;
 }
 
 main {
@@ -19,11 +20,13 @@ main {
 }
 
 main div {
-  width: 260px;
-  height: 420px;
+  width: 250px;
+  height: 340px;
+  margin-bottom: 20px;
+  border-radius: 10px;
   background-image: url("../images/card.jpg");
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   cursor: pointer;
 }
 
@@ -38,7 +41,7 @@ main div p {
 .modal2 {
   width: 100vw;
   height: 100vh;
-  background-color: #fff;
+  background-color: #76B8B8;
   position: absolute;
   display: none;
   margin-top: -14vh;
@@ -58,10 +61,10 @@ main div p {
 
 @keyframes color {
   from {
-        background-color: lightgreen;
+        background-color: green;
         width: 100wv;}
   to {
-      background-color: lightcoral;
+      background-color: red;
       width: 0;
       }
 }

@@ -65,7 +65,7 @@
         "typ": "reg",
         "numer": 11,
         "epoka": "Renesans",
-        "tekst": "Dlaczego Jan Kochanowski w 'Trenach' przywołuje postać Safony z Lesbos?."
+        "tekst": "Dlaczego Jan Kochanowski w 'Trenach' przywołuje postać Safony z Lesbos?"
     },
     {
         "typ": "reg",
@@ -89,7 +89,7 @@
         "typ": "img",
         "numer": 15,
         "epoka": "Barok",
-        "tekst": "Wskaż cechy charakterystyczne dla baroku w obrazie autorstwa Georgesa de La Tour pt. Maria Magdalena.",
+        "tekst": "Wskaż cechy charakterystyczne dla baroku w obrazie autorstwa Georgesa de La Toura pt. 'Maria Magdalena'.",
         "image": "Maria.jpg"
     },
     {
@@ -121,7 +121,7 @@
         "typ": "reg",
         "numer": 20,
         "epoka": "Romantyzm",
-        "tekst": "Gdzie i jak popełnia samobójstwo Werter? W co był ubrany bohater w chwili popełnienia samobójstwa? "
+        "tekst": "Gdzie i jak popełnił samobójstwo Werter? W co był ubrany bohater w chwili popełnienia samobójstwa? "
     },
     {
         "typ": "img",
@@ -159,19 +159,19 @@
         "typ": "reg",
         "numer": 26,
         "epoka": "Młoda Polska",
-        "tekst": "W którym roku i za jakie dzieło W. S. Reymont otrzymał Literacką Nagrodę Nobla? Jaki był argument za przyznaniem właśnie tej nagrody Reymontowi?"
+        "tekst": "W którym roku i za jakie dzieło W. S. Reymont otrzymał Literacką Nagrodę Nobla? Jaki był argument za przyznaniem tej nagrody właśnie Reymontowi?"
     },
     {
         "typ": "reg",
         "numer": 27,
         "epoka": "Młoda Polska",
-        "tekst": "Wskaż 3 tytuły młodopolskich wierszy, które nawiązują do dekadenckiego stylu życia (każdy w tekstów przypisz innemu autorowi)."
+        "tekst": "Wskaż 3 tytuły młodopolskich wierszy (każdy innego autora), które nawiązują do dekadenckiego stylu życia."
     },
     {
         "typ": "reg",
         "numer": 28,
         "epoka": "Młoda Polska",
-        "tekst": "Opis scenę chocholego tańca z „Wesela” Stanisława Wyspiańskiego. Wyjaśnij jego symbolikę."
+        "tekst": "Opisz scenę chocholego tańca z „Wesela” Stanisława Wyspiańskiego. Wyjaśnij jego symbolikę."
     },
     {
         "typ": "reg",
@@ -208,19 +208,19 @@
         "typ": "reg",
         "numer": 34,
         "epoka": "Międzywojnie",
-        "tekst": "Więcej światła!. Proszę omówić literacko-społeczny program grupy artystycznej skupionej wokół Brunona Jasieńskiego."
+        "tekst": "„Więcej światła!” Proszę omówić literacko-społeczny program grupy artystycznej skupionej wokół Brunona Jasieńskiego."
     },
     {
         "typ": "reg",
         "numer": 35,
         "epoka": "Międzywojnie",
-        "tekst": "Skamander połyska, wiślaną świetląc się falą (Stanisław Wyspiański „Akropolis”). Proszę omówić cechy twórczości grupy literackiej 'Skamander'."
+        "tekst": "„Skamander połyska, wiślaną świetląc się falą” (Stanisław Wyspiański „Akropolis”). Proszę omówić cechy twórczości grupy literackiej „Skamander”."
     },
     {
         "typ": "reg",
         "numer": 36,
         "epoka": "Literatura współczesna",
-        "tekst": "Który z pisarzy powojennych wykorzystał technikę behawiorystyczną? Na czym ona polega?."
+        "tekst": "Który z pisarzy powojennych wykorzystał technikę behawiorystyczną? Na czym ona polega?"
     },
     {
         "typ": "reg",

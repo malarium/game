@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash");
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: "Berkshire Swash", cursive;
+}
+main {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(34, 34, 34);
+}
+
+#banner {
+    width: 36vw;
+    margin: 0 auto 7vh;
+    padding-top: 16vh;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logoMilo,
+#logoLo {
+    width: 30vh;
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#logoMilo {
+    background-image: url("../images/LOGO_milo.jpg");
+}
+
+#logoLo {
+    background-image: url("../images/loLogo.png");
+}
+
+.txt {
+    text-align: center;
+    font-size: 4vw;
+    color: #d6d6d6;
+    margin-top: 2vh;
+}

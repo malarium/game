@@ -1,13 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Berkshire+Swash");
+html {
+  background-color: #49a09d;
+}
 body {
   margin: 0;
   padding: 0;
   overflow: hidden;
   font-family: "Berkshire Swash", cursive;
-}
-
-hr {
-  margin-top: 0;
 }
 
 a:link,
@@ -29,7 +28,7 @@ main {
     background-color: #49a09d;
   }
   50% {
-    background-color: #5f2c82;
+    background-color: #7c5d90;
   }
   100% {
     background-color: #49a09d;
@@ -48,7 +47,30 @@ header {
 }
 
 header a {
-  margin: 0 auto;
+  margin: 0 auto -3vh;
+  margin-top: 2vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+
+#miloLogo,
+#loLogo {
+  margin-top: 6vh;
+  width: 21vh;
+  height: 21vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+#miloLogo {
+  background-image: url("../images/LOGO_milo.jpg");
+}
+
+#loLogo {
+  background-image: url("../images/loLogo.png");
 }
 
 section {
@@ -62,10 +84,11 @@ section {
 
 main {
   flex-flow: column;
-  height: 75vh;
+  height: 79vh;
   text-align: center;
   font-size: 2.5em;
   padding-bottom: 0;
+  background-color: #49a09d;
 }
 
 #media {
@@ -91,7 +114,7 @@ iframe {
 }
 
 #losowanie {
-  width: 25vw;
+  width: 26vw;
   height: 40vw;
   border: 5px solid black;
   border-radius: 25px;
@@ -111,7 +134,7 @@ iframe {
 }
 
 #losowanie span {
-  font-size: 15em;
+  font-size: 14em;
 }
 
 #losowanie p {
